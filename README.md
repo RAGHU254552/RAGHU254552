@@ -41,7 +41,7 @@
 
 - 📧 Email: rajputraghu254@gmail.com  
 - 📍 Location: Faridabad, Haryana  
-- 🌐 Portfolio: *Coming Soon...*
+- 🌐 Portfolio: https://portfolio-drab-five-nwbob7kqe2.vercel.app
 
 ---
 
