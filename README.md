@@ -15,7 +15,7 @@
 
 - 💻 Languages: `JavaScript`
 - 🚀 Frameworks: `React.js`, `Express.js`, `Tailwind`, `Bootstrap`
-- 🔌 Backend: `Firebase`, `MongoDB`
+- 🔌 Backend: `MongoDB`
 - ⚙️ Tools: `VSCode`, `Postman`, `Chrome DevTools`,`Github`,` Vercel`
 
 ---
